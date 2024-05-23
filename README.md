@@ -1,4 +1,5 @@
 Must use pip to install bs4, requests, and win10toast
+#gitignore
   pip install requests
   pip install win10toast
   pip install bs4
